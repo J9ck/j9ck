@@ -1,4 +1,6 @@
-### Hi there 👋
+### what up!
+i'm J9ck, i'm 18, and i'm a computer science student.
+welcome to my profile!
 
 <!--
 **J9ck/j9ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
