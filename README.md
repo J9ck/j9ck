@@ -1,5 +1,6 @@
 ### what up!
 i'm J9ck, i'm 18, and i'm a computer science student.
+
 welcome to my profile!
 
 you can check out my twitter at @sta_ or my discord at plant#0220
