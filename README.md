@@ -1,9 +1,6 @@
 ### what up!
-i'm J9ck, i'm 18, and i'm a computer science student.
 
-welcome to my profile!
-
-you can check out my twitter at @sta_ or my discord at plant#0220
+comp sci student
 
 <!--
 **J9ck/j9ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
