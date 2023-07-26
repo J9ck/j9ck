@@ -8,10 +8,7 @@ I do a lot, welcome to my GitHub page! If you have any questions, feel free to r
 
 *   🌍  I'm based in Massachusetts & Rhode Island!
 *   🧠  I'm learning Python, and it's kicking' my butt.
-*   🤝  I'm open to collaborating on anything, if you can teach me something, I want to hear it!<a href="https://www.github.com/j9ck" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/j9ck?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/sta_" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/sta_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+*   🤝  I'm open to collaborating on anything, if you can teach me something, I want to hear it!### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -33,4 +30,4 @@ I do a lot, welcome to my GitHub page! If you have any questions, feel free to r
                           
                       <a href="https://www.linkedin.com/in/j9ck" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-                      <a href="https://www.twitter.com/sta_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges
+                      <a href="https://www.twitter.com/sta_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
