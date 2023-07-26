@@ -8,7 +8,9 @@ I do a lot, welcome to my GitHub page! If you have any questions, feel free to r
 
 *   🌍  I'm based in Massachusetts & Rhode Island!
 *   🧠  I'm learning Python, and it's kicking' my butt.
-*   🤝  I'm open to collaborating on anything, if you can teach me something, I want to hear it!### Skills 
+*   🤝  I'm open to collaborating on anything, if you can teach me something, I want to hear it!
+  
+  ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
