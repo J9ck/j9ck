@@ -1,4 +1,4 @@
-Hello GitHub ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am j9ck, a full time student looking to learn new things on GitHub!
+Hello and welcome to my profile! I am J9ck, a full time comp sci student looking to learn new things on GitHub!  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =============================================================================================================================
 
 Computer Science Student, Radio Production Manager, and IT Technician.
