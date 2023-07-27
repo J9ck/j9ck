@@ -4,7 +4,7 @@
 
 ## 🌟 Who Am I? 🌟
 
-I'm not your ordinary GitHub presence; I'm a fusion of a Computer Science prodigy, a Radio Production virtuoso, and a mastermind IT Technician. As I traverse this thrilling journey, I invite you to join me in unraveling the secrets of the cosmos! I love AI & I love computers.
+I'm not your ordinary GitHub presence; I'm a fusion of a Computer Science prodigy, a Radio Production Manager, and a mastermind IT Technician. As I traverse this thrilling journey, I invite you to join me in unraveling the secrets of the cosmos! I love AI & I love computers.
 
 ## 🚀 Embark on an Odyssey! 🚀
 
@@ -16,7 +16,7 @@ My cosmic coordinates are set in the realms of Massachusetts & Rhode Island, whe
 
 ## 🧠 Conquering the Python Universe! 🧠
 
-Behold the battlefield where I'm conquering Python, pushing my mind to its limits. Challenges may try to thwart me, but I'll never back down!
+Behold the battlefield where I'm conquering Python, pushing my mind to its limits. It's pretty difficult, but I am trying!
 
 ## 🤝 Ready to Collide in Cosmic Collaboration! 🤝
 
