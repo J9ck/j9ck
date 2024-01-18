@@ -26,7 +26,6 @@ Collaboration is the heartbeat of creativity! My insatiable curiosity drives me 
 
 My delightful toolkit consists of skills like Python, HTML5, Raspberry Pi, MacOS, Linux, AWS, and MetaMask. With these, I weave digital wonders!
 
-```markdown
 - Python 🐍
 - HTML5 🌐
 - Raspberry Pi 🎛️
@@ -35,18 +34,10 @@ My delightful toolkit consists of skills like Python, HTML5, Raspberry Pi, MacOS
 - AWS ☁️
 - MetaMask 💰
 
-```markdown
 
 ## 🌸 Explore My Charming Presence!
 
 Traverse the digital gardens of my repositories, where brilliance and creativity intertwine. Unravel the possibilities that await you!
-
-## 🌟 Connecting Across the Digital Sphere!
-
-Join me on my charming adventures through the vast expanse of social media:
-
-[GitHub](https://www.github.com/j9ck) | [Instagram](http://www.instagram.com/jgcks) | [LinkedIn](https://www.linkedin.com/in/j9ck) | [X](https://www.X.com/sta_)
-In this charming dance, let's create wonders that echo through the digital realm!
 
 ## 🚀 The Digital Universe Awaits Your Presence!
 
