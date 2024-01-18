@@ -35,6 +35,8 @@ My delightful toolkit consists of skills like Python, HTML5, Raspberry Pi, MacOS
 - AWS ☁️
 - MetaMask 💰
 
+```markdown
+
 ## 🌸 Explore My Charming Presence!
 
 Traverse the digital gardens of my repositories, where brilliance and creativity intertwine. Unravel the possibilities that await you!
