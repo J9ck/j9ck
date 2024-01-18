@@ -4,7 +4,7 @@
 
 ## 🌟 Who Am I?
 
-Hello, lovely explorer of the digital universe! I am J9ck, a delightful blend of a Computer Science enthusiast, Radio Production Maestro, and IT Technician extraordinaire. Join me on this charming journey as we explore the delightful secrets of the digital realm! My heart is filled with love for AI and computers.
+Hello, lovely explorer of the digital universe! I am J9ck, a delightful blend of a Computer Science enthusiast, Radio Production Manager, IT Technician extraordinaire, and transhumanism fanatic. Join me on this charming journey as we explore the delightful secrets of the digital realm! My heart is filled with love for AI and computers.
 
 ## 🚀 Embark on a Charming Adventure!
 
