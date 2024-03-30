@@ -16,7 +16,7 @@ I'm based in the creative hubs of Massachusetts & Rhode Island, where innovation
 
 ## Skills
 
-I wield Python, HTML5, Raspberry Pi, MacOS, Linux, AWS, and MetaMask like tools of the trade. These are the tools I use to navigate the digital realm.
+I wield Python, HTML5, Raspberry Pi, MacOS, Linux, AWS, and VMWare like tools of the trade. These are the tools I use to navigate the digital realm.
 
 ## Collaboration
 
