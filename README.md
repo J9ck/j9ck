@@ -24,7 +24,7 @@ I'm open to collaborations and love bouncing ideas off creative minds. If you've
 
 ## Explore My Work
 
-Check out my repositories to see what I've been working on. There might be something that piques your interest!
+Check out my repositories to see what I've been working on! There might be something that piques your interest!
 
 ## Get in Touch
 
