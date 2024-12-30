@@ -1,31 +1,18 @@
-# J9ck's GitHub Profile
+# Hi there, I'm Jack Doyle! 👋
 
-![J9ck](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+### About Me
+I'm a college student majoring in **Computer Science** and **Artificial Intelligence**, passionate about creating innovative solutions that make life easier and more engaging. When I'm not coding, you'll probably find me working on websites or exploring ways to improve technology on campus.
 
-## About Me
+### What I Work On
+- **Roommate to LLM**: A fun and functional AI project aimed at making roommate interactions seamless and smart.
+- **Web UI Design**: I've crafted sleek and user-friendly interfaces for various clients, including custom designs for organizations at **Rhode Island College** like 90.7 WXIN and SCG.
+- **College Initiatives**: I run several committees focused on enhancing technology and user experiences at my college.
 
-Hey there! I'm J9ck, a Computer Science enthusiast, Radio Production Manager, and IT Technician. I'm all about diving into the digital world and exploring its depths.
+### Let’s Connect
+- **Portfolio**: [jgcks.com](https://www.jgcks.com) 
+- **LinkedIn**: [linkedin.com/in/j9ck](https://www.linkedin.com/in/j9ck)
 
-## What to Expect
+### Fun Fact
+I’m currently diving into the fascinating world of **RFID and NFC microchips** for humans, pets, and more—combining hardware and software in ways that push the boundaries of innovation.
 
-Join me on a journey through the digital landscape. At just twenty, I'm honing my skills in Computer Science and delving into projects that intrigue me.
-
-## Background
-
-I'm based in the creative hubs of Massachusetts & Rhode Island, where innovation thrives, and I'm right in the mix of it.
-
-## Skills
-
-I wield Python, HTML5, Raspberry Pi, MacOS, Linux, AWS, and VMWare like tools of the trade. These are the tools I use to navigate the digital realm.
-
-## Collaboration
-
-I'm open to collaborations and love bouncing ideas off creative minds. If you've got something cool brewing, let's chat!
-
-## Explore My Work
-
-Check out my repositories to see what I've been working on! There might be something that piques your interest!
-
-## Get in Touch
-
-Feel free to reach out, and let's see where our paths intersect in this digital wilderness.
+Let’s collaborate and create something awesome! 🚀
