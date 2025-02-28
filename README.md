@@ -24,11 +24,11 @@ Currently diving deep into the fascinating world of **RFID** and **NFC microchip
 
 ## My Skills 🛠️
 
-- **Programming**: Python, JavaScript, Java, C++
-- **Web Development**: HTML, CSS, JavaScript, React, WordPress
-- **AI & Machine Learning**: TensorFlow, Scikit-learn, Deep Learning
-- **Cybersecurity**: Network Security, Encryption, Ethical Hacking
-- **Tools**: Git, Docker, AWS, Firebase, Google Workspaces
+- **Programming**: Python, JavaScript, Java, C++, and HTML.
+- **Web Development**: HTML, CSS, JavaScript, React, WordPress, and Wix.
+- **AI & Machine Learning**: TensorFlow, Scikit-learn, and Deep Learning.
+- **Cybersecurity**: Network Security, Encryption, and Ethical Hacking.
+- **Tools**: Git, Docker, AWS, Firebase, and Google Workspaces.
 
 ## Let’s Connect 🤝
 
