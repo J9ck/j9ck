@@ -5,8 +5,7 @@ Welcome to my GitHub! I’m a **college student** with a dual focus in **Compute
 ## About Me 🎓
 
 - **Majors**: Computer Science & Artificial Intelligence  
-- **Minors**: Cybersecurity  
-- **College**: Rhode Island College  
+- **Minors**: Cybersecurity
 - I thrive on creating **intuitive websites**, diving into **emerging technologies**, and constantly learning new things. My goal is to combine **hardware** and **software** to build projects that push the boundaries of what's possible.
 
 ## What I’m Working On 🚀
