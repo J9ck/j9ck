@@ -1,18 +1,48 @@
-# Hi there, I'm Jack Doyle! 👋
+# Jack Doyle 👋
 
-### About Me
-I'm a college student majoring in **Computer Science** and **Artificial Intelligence**, passionate about creating innovative solutions that make life easier and more engaging. When I'm not coding, you'll probably find me working on websites or exploring ways to improve technology on campus.
+Welcome to my GitHub! I’m a **college student** with a dual focus in **Computer Science** and **Artificial Intelligence**. I'm passionate about building innovative solutions that solve real-world problems and improve everyday life. When I'm not coding, I’m usually working on web development, exploring AI applications, or driving technology initiatives on campus.
 
-### What I Work On
-- **Roommate to LLM**: A fun and functional AI project aimed at making roommate interactions seamless and smart.
-- **Web UI Design**: I've crafted sleek and user-friendly interfaces for various clients, including custom designs for organizations at **Rhode Island College** like 90.7 WXIN and SCG.
-- **College Initiatives**: I run several committees focused on enhancing technology and user experiences at my college.
+## About Me 🎓
 
-### Let’s Connect
-- **Portfolio**: [jgcks.com](https://www.jgcks.com) 
+- **Majors**: Computer Science & Artificial Intelligence  
+- **Minors**: Cybersecurity  
+- **College**: Rhode Island College  
+- I thrive on creating **intuitive websites**, diving into **emerging technologies**, and constantly learning new things. My goal is to combine **hardware** and **software** to build projects that push the boundaries of what's possible.
+
+## What I’m Working On 🚀
+
+### 🌟 **Roommate to LLM**
+A fun and functional AI project that aims to make roommate interactions seamless and more intelligent using AI-powered tools.
+
+### 🌐 **Web UI & Design**
+I've designed sleek and user-friendly interfaces for various organizations at **Rhode Island College**, including **90.7 WXIN** and **Student Community Government (SCG)**.
+
+### 💻 **Tech Initiatives on Campus**
+I actively contribute to several tech-driven committees at **Rhode Island College**, focused on enhancing the digital experience for students and staff. 
+
+### 🔒 **RFID & NFC Microchips**
+Currently diving deep into the fascinating world of **RFID** and **NFC microchips** for applications such as **human implants**, **pet tracking**, and **smart access systems**.
+
+## My Skills 🛠️
+
+- **Programming**: Python, JavaScript, Java, C++
+- **Web Development**: HTML, CSS, JavaScript, React, WordPress
+- **AI & Machine Learning**: TensorFlow, Scikit-learn, Deep Learning
+- **Cybersecurity**: Network Security, Encryption, Ethical Hacking
+- **Tools**: Git, Docker, AWS, Firebase, Google Workspaces
+
+## Let’s Connect 🤝
+
+- **Portfolio**: [jgcks.com](https://www.jgcks.com)
 - **LinkedIn**: [linkedin.com/in/j9ck](https://www.linkedin.com/in/j9ck)
+- **Twitter**: [@sta_](https://twitter.com/sta_)
 
-### Fun Fact
-I’m currently diving into the fascinating world of **RFID and NFC microchips** for humans, pets, and more—combining hardware and software in ways that push the boundaries of innovation.
+## Fun Fact 🎉
 
-Let’s collaborate and create something awesome! 🚀
+I’m deeply fascinated by the potential of **RFID and NFC microchips** — especially when it comes to **human implants**. I'm exploring how these microchips can revolutionize daily life, from **keyless access** and **payment solutions** to more advanced uses like **personal identification** and **health monitoring**. I believe these technologies will blur the lines between the digital and physical world, offering a glimpse into the future of human-computer interaction.
+
+Whether it's for **implanting chips for security and convenience** or creating **personalized bio-tech** that could improve lives, I’m passionate about researching and developing ways to integrate technology with the human body.
+
+---
+
+Feel free to check out my projects, ask me questions, or just say hi. Let's create something awesome together! 🚀
