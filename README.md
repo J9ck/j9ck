@@ -1,6 +1,6 @@
 # Jack Doyle 👋
 
-Welcome to my GitHub! I’m a **college student** with a dual focus in **Computer Science** and **Artificial Intelligence**. I'm passionate about building innovative solutions that solve real-world problems and improve everyday life. When I'm not coding, I’m usually working on web development, exploring AI applications, or driving technology initiatives on campus.
+Welcome to my GitHub! I’m a **college student** with a dual focus in **Computer Science** and **Artificial Intelligence**. I'm passionate about building innovative solutions that solve real-world problems and improve everyday life. When I'm not coding, I’m usually working on web development, exploring AI applications, or driving technology initiatives on my college campus.
 
 ## About Me 🎓
 
