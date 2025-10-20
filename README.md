@@ -1,48 +1,51 @@
 # j9ck // embedded tech + ai + security
 
-─────────────────────────────────────────────
-SYSTEM
-─────────────────────────────────────────────
-init j9ckOS v2.5
-loading core modules... done
-initializing embedded interface... done
+computer science + artificial intelligence student • cybersecurity minor  
+building at the intersection of hardware, software, and human interfaces. focused on security, automation, and practical ai applications.
 
-─────────────────────────────────────────────
-PROJECTS
-─────────────────────────────────────────────
-nfc implant shortcut        ✔ stable
-rfid smart entry            ✔ prototype
-pegleg clone                ░ in dev
-embedded privacy research   ░ testing
+---
 
-─────────────────────────────────────────────
-CORE MODULES
-─────────────────────────────────────────────
-python · javascript · java · c++
-react · html · css · wordpress · wix
-llm integration · huggingface · ollama
-network security · encryption · ethical hacking
+## about me
 
-─────────────────────────────────────────────
-TOOLS
-─────────────────────────────────────────────
-git · docker · firebase · aws · google workspace
+i design and experiment with connected systems — from ai models to implantable tech.  
+projects blend curiosity with real-world usability, focusing on privacy, encryption, and secure access systems.
 
-─────────────────────────────────────────────
-NET STATUS
-─────────────────────────────────────────────
-secure | online | monitoring
+- website: [jgcks.com](https://www.jgcks.com)  
+- linkedin: [linkedin.com/in/j9ck](https://www.linkedin.com/in/j9ck)  
+- x/twitter: [@sta_](https://twitter.com/sta_)
 
-─────────────────────────────────────────────
-OBJECTIVE
-─────────────────────────────────────────────
-merge human interface with frictionless security
-push boundaries of embedded identity systems
-explore AI, automation, and real-world privacy
+---
 
-─────────────────────────────────────────────
-CONTACT
-─────────────────────────────────────────────
-portfolio: [jgcks.com](https://www.jgcks.com)
-linkedin: [linkedin.com/in/j9ck](https://www.linkedin.com/in/j9ck)
-x/twitter: [@sta_](https://twitter.com/sta_)
+## current projects
+
+- nfc implant shortcut        ✔ stable  
+- rfid smart entry             ✔ prototype  
+- pegleg clone                 ░ in dev  
+- embedded privacy research    ░ testing  
+
+---
+
+## skills
+
+**programming:** python · javascript · java · c++  
+**web development:** react · html · css · wordpress · wix  
+**ai / ml:** llm integration · huggingface · ollama · prompt engineering  
+**cybersecurity:** network security · encryption · ethical hacking  
+**tools:** git · docker · firebase · aws · google workspace  
+
+---
+
+## focus: embedded identity systems
+
+exploring rfid/nfc microchips and implantable tech for secure, frictionless authentication and identity verification.  
+hands-on experiments designed to push the limits of embedded security.
+
+---
+
+## let’s connect
+
+if you’re working on ai, embedded systems, or human-tech interfaces, reach out!  
+
+- portfolio: [jgcks.com](https://www.jgcks.com)  
+- linkedin: [linkedin.com/in/j9ck](https://www.linkedin.com/in/j9ck)  
+- x/twitter: [@sta_](https://twitter.com/sta_)
