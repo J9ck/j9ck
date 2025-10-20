@@ -1,56 +1,46 @@
-# Jack Doyle 💻
+J9ck 💻
 
-Welcome to my GitHub! I'm a Computer Science & Artificial Intelligence student at Rhode Island College, with a minor in Cybersecurity. I build things that blend **hardware and software**, always aiming to make tech more secure, intuitive, and human-friendly.
+I’m a Computer Science + Artificial Intelligence student with a Cybersecurity minor. I build systems where hardware meets software — secure, efficient, and human-focused.
 
----
+⸻
 
-## 🔎 About Me
+🔎 About Me
 
-**Majors:** Computer Science & Artificial Intelligence  
-**Minor:** Cybersecurity  
-**Website:** [jgcks.com](https://www.jgcks.com)
+Majors: Computer Science & Artificial Intelligence
+Minor: Cybersecurity
+Website: jgcks.com
 
-I'm passionate about web development, AI experimentation, and embedded technology. Whether I’m leading web projects for student organizations or researching RFID/NFC systems for identity and access control, I focus on building things that work, last, and make life easier.
+I design and experiment with connected systems — from AI models to implantable tech. My work blends curiosity with precision, focusing on security, automation, and real-world usability.
 
----
+⸻
 
-## 🚀 What I’m Working On
+🚀 Current Projects
+	•	Human NFC Implants – Integrating iOS Shortcuts and SSH access through NFC implants for device control and automation.
+	•	RFID Smart Entry Systems – Developing RFID-based secure access systems for authentication and workspace automation.
+	•	PegLeg Clone Project – Prototyping a wireless data implant inspired by the original PegLeg, exploring self-contained encrypted file storage.
+	•	Embedded Tech Research – Investigating encryption, privacy, and safety frameworks for human-embedded and wearable technologies.
 
-- **Roommate to LLM** – A fun AI project where I modeled my roommate as a chatbot.  
-- **Web Platforms @ RIC** – Built websites for 90.7 WXIN and Student Government with responsive design, secure content hosting, and live streaming.  
-- **NFC/RFID Integration** – Exploring real-world applications of embedded chips in secure access, identity, and automation.  
-- **Campus Tech Committees** – Actively involved in student-led initiatives to modernize and secure my college’s digital infrastructure.
+⸻
 
----
+🛠️ Technical Stack
 
-## 🛠️ Skills
+Languages: Python · JavaScript · Java · C++
+Web: React · HTML · CSS · WordPress · Wix
+AI / ML: LLM Integration · Ollama · Hugging Face · Model Prompting
+Cybersecurity: Network Security · Encryption · Ethical Hacking
+Tools: Git · Docker · Firebase · AWS · Google Workspace
 
-**Programming:** Python · JavaScript · Java · C++  
-**Web Dev:** HTML · CSS · React · WordPress · Wix  
-**AI/ML:** Ollama · HuggingFace · LLM Prompting · Deep Learning  
-**Cybersecurity:** Network Security · Encryption · Ethical Hacking  
-**Tools:** Git · Docker · Firebase · AWS · Google Workspace
+⸻
 
----
+🔒 Focus: Embedded Identity Systems
 
-## 🔒 Focus: RFID & NFC Microchips
+Experimenting with RFID/NFC microchips and implantable tech to redefine secure authentication and personal computing. My goal is to push secure embedded systems from theory into practice.
 
-I'm exploring how subdermal and external RFID/NFC technologies can improve authentication, secure access, and identity verification.
+⸻
 
-**Current Projects Include:**
-- Human implants for digital ID & crypto wallets  
-- RFID-based smart entry systems  
-- Secure NFC workflows for contactless login  
-- Research into privacy, encryption, and safety of embedded tech
+🤝 Connect
+	•	Portfolio: jgcks.com
+	•	LinkedIn: linkedin.com/in/j9ck
+	•	X (Twitter): @sta_
 
-These projects aren’t just ideas — they’re hands-on, self-tested systems built to explore the boundaries of modern security and interface design.
-
----
-
-## 🤝 Let’s Connect
-
-- **Portfolio:** [jgcks.com](https://www.jgcks.com)  
-- **LinkedIn:** [linkedin.com/in/j9ck](https://linkedin.com/in/j9ck)  
-- **Twitter:** [@sta_](https://twitter.com/sta_)
-
-If you're building something cool, exploring AI or embedded systems, or just curious about human-tech interfaces — hit me up. I'm always down to build something weird and useful. 🚀
+Building tech that’s weird, useful, and secure.
