@@ -1,30 +1,41 @@
 # j9ck // embedded tech + ai + security
 
-> init system
-loading projects...
-✔ nfc implant shortcut
-✔ rfid smart entry
-▒ pegleg clone
-▒ embedded privacy research
+┌─[system]───────────────────────────────
+│ init j9ckOS v2.5
+│ loading core modules... done
+│ initializing embedded interface... done
+└────────────────────────────────────────
 
-> core modules
-python · javascript · java · c++
-react · html · css · wordpress · wix
-llm integration · huggingface · ollama
-network security · encryption · ethical hacking
+┌─[projects]─────────────────────────────
+│ nfc implant shortcut       ✔ prototype
+│ rfid smart entry           ✔ stable
+│ pegleg clone               ░ testing
+│ embedded privacy research  ░ in dev
+└────────────────────────────────────────
 
-> tools
-git · docker · firebase · aws · google workspace
+┌─[core modules]────────────────────────
+│ python · javascript · java · c++
+│ react · html · css · wordpress · wix
+│ llm integration · huggingface · ollama
+│ network security · encryption · ethical hacking
+└────────────────────────────────────────
 
-> net status
-secure | online | monitoring
+┌─[tools]───────────────────────────────
+│ git · docker · firebase · aws · google workspace
+└────────────────────────────────────────
 
-> objective
-merge human interface with frictionless security
-push boundaries of embedded identity systems
-explore AI, automation, and real-world privacy
+┌─[net status]──────────────────────────
+│ secure | online | monitoring
+└────────────────────────────────────────
 
-> contact
-portfolio: [jgcks.com](https://www.jgcks.com)
-linkedin: [linkedin.com/in/j9ck](https://www.linkedin.com/in/j9ck)
-x/twitter: [@sta_](https://twitter.com/sta_)
+┌─[objective]───────────────────────────
+│ merge human interface with frictionless security
+│ push boundaries of embedded identity systems
+│ explore AI, automation, and real-world privacy
+└────────────────────────────────────────
+
+┌─[contact]─────────────────────────────
+│ portfolio: [jgcks.com](https://www.jgcks.com)
+│ linkedin: [linkedin.com/in/j9ck](https://www.linkedin.com/in/j9ck)
+│ x/twitter: [@sta_](https://twitter.com/sta_)
+└────────────────────────────────────────
