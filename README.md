@@ -1,51 +1,73 @@
-# j9ck // embedded tech + ai + security
-
-computer science + artificial intelligence student • cybersecurity minor  
-building at the intersection of hardware, software, and human interfaces. focused on security, automation, and practical ai applications.
+# j9ck 💻  
+computer science + ai + embedded systems  
 
 ---
 
-## about me
+## about me  
+student focused on merging **hardware**, **software**, and **security** into seamless systems.  
+building web platforms, experimenting with ai models, and researching implantable tech.  
+  
 
-i design and experiment with connected systems — from ai models to implantable tech.  
-projects blend curiosity with real-world usability, focusing on privacy, encryption, and secure access systems.
-
-- website: [jgcks.com](https://www.jgcks.com)  
-- linkedin: [linkedin.com/in/j9ck](https://www.linkedin.com/in/j9ck)  
-- x/twitter: [@sta_](https://twitter.com/sta_)
-
----
-
-## current projects
-
-- nfc implant shortcut        ✔ stable  
-- rfid smart entry             ✔ prototype  
-- pegleg clone                 ░ in dev  
-- embedded privacy research    ░ testing  
+**majors:** computer science + artificial intelligence  
+**minor:** cybersecurity  
+**site:** [jgcks.com](https://www.jgcks.com)
 
 ---
 
-## skills
+## projects  
 
-**programming:** python · javascript · java · c++  
-**web development:** react · html · css · wordpress · wix  
-**ai / ml:** llm integration · huggingface · ollama · prompt engineering  
+**90.7 wxin website**  
+- designed + built the full-stack platform for ric’s student-run radio station  
+- implemented ssl, cdn optimization, and live streaming  
+- focused on accessibility + reliability across all devices  
+✔ stable  
+
+**scg website**  
+- created a digital governance portal for ric’s student government  
+- developed content systems, secure browsing, + analytics integration  
+✔ stable  
+
+**home server infrastructure**  
+- deployed multi-os homelab with ~30tb of storage  
+- supports virtualization, backups, + cybersecurity research  
+✔ prototype  
+
+**resume website**  
+- dns-secured, cloud-hosted portfolio for professional + technical use  
+- integrated cdn + analytics for performance monitoring  
+✔ stable  
+
+**roommate to llm**  
+- ai project that modeled my college roommate as a conversational agent  
+- built using open-source llm frameworks  
+░ in dev  
+
+**human-integrated rfid/nfc systems**  
+- self-implanted dangerous things xsiid + next chips for real-world testing  
+- built ios shortcuts + ssh triggers from implants  
+- exploring secure implant authentication + privacy frameworks  
+░ testing  
+
+---
+
+## skills  
+
+**programming:** python · java · c++ · swift  
+**web:** react · html · css · google sites · wix  
+**ai/ml:** llm prompting · huggingface · ollama  
 **cybersecurity:** network security · encryption · ethical hacking  
-**tools:** git · docker · firebase · aws · google workspace  
+**tools:**  
+git · docker · vscode · xcode · firebase · aws · cloudflare · proxmark3 · arduino ide · nfc tools
 
 ---
 
-## focus: embedded identity systems
-
-exploring rfid/nfc microchips and implantable tech for secure, frictionless authentication and identity verification.  
-hands-on experiments designed to push the limits of embedded security.
+## focus  
+rfid + nfc microchips for identity, access, and automation.  
+building systems that make human-device interaction more natural + secure.  
 
 ---
 
-## let’s connect
-
-if you’re working on ai, embedded systems, or human-tech interfaces, reach out!  
-
-- portfolio: [jgcks.com](https://www.jgcks.com)  
-- linkedin: [linkedin.com/in/j9ck](https://www.linkedin.com/in/j9ck)  
-- x/twitter: [@sta_](https://twitter.com/sta_)
+## contact  
+🌐 [jgcks.com](https://www.jgcks.com)  
+💼 [linkedin.com/in/j9ck](https://linkedin.com/in/j9ck)  
+🕸️ [@sta_](https://twitter.com/sta_)  
